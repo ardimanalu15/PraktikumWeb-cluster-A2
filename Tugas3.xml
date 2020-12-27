@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Ardi Gaya</awal>
+        <akhir>Manalu</akhir>
+    </nama>
+    <saudara>
+        <pertama>Togar Parulian Manalu</pertama>
+        <kedua>Firmanto Manalu</kedua>
+    </saudara>    
+    <jeniskelamin>Laki-laki</jenisKelamin>
+    <alamat>
+        <kabupaten>Jayawijaya Wamena</kabupaten>
+        <provinsi>Papua</provinsi>
+        <negara>Indonesia</negara>
+    </alamat>
+    <sosialMedia>
+        <github>ardimanalu02</github>
+    </sosialMedia>
+</dataDiri>
