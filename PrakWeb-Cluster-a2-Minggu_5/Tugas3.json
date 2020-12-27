@@ -1,0 +1,19 @@
+{
+    "Nama": {
+        "awal": "Ardi Gaya",
+        "akhir": "Manalu"
+    },
+    "Saudara": {
+        "pertama": "Togar Parulian Manalu",
+        "kedua": "Firmanto Manalu"
+    },
+    "jenisKelamin": "Laki-laki",
+    "alamat": {
+        "kabupaten": "Jayawijaya Wamena",
+        "provinsi": "Papua",
+        "negara": "Indonesia"
+    },
+    "sosialMedia": {
+        "github": "ardimanalu02"
+    }
+}
